@@ -1,0 +1,3 @@
+git add .
+git commit -m "Adiciona deploy automático com GitHub Actions"
+git push origin main
